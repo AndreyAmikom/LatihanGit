@@ -6,7 +6,7 @@ namespace CalculatoConsoleApp
 	{
 		static void Main(string[] args)
 		{
-		
+			
 		}
 	}
 }
